@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309467218319",
+    "project_id": "tictactoe-minimax",
+    "storage_bucket": "tictactoe-minimax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309467218319:android:f38d610e18b9603b00cbfa",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe_minimax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6bTedta8tSot7zYhE4Nye1vN3qcFcRJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

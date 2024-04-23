@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title1">Tic-Tac-Toe</string>
+    <string name="options">Play Against</string>
+    <string name="opt1">AI</string>
+    <string name="opt2">Friend</string>
+    <string name="btndisp"> </string>
+    <string name="scr">0</string>
+    <string name="Score">Score</string>
+    <string name="Ai">AI</string>
+    <string name="You">Player</string>
+    <string name="P1">Player X</string>
+    <string name="P2">Player O</string>
+    <string name="Restart">Restart</string>
+    <string name="lastBtn">Give Up</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="splash">Let\'s play</string>
+    <string name="real_player">Online</string>
+</resources>
